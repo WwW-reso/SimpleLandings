@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+}
+
+table  {
+  margin: 0 auto;
+  border: 2px solid purple;
+}
+
+thead {
+  background-color: plum;
+}
+
+
+.first-col {
+  background-color: lightyellow;
+  margin: 5px;
+}
+
+td {
+  border-top: 1px  solid purple;
+}
